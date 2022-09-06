@@ -1,5 +1,5 @@
 세탁소 시스템
-![세탁소](https://user-images.githubusercontent.com/96948587/188064933-29c6b96c-10db-421a-9640-4a3526a3b38c.png)
+최종 프로젝트 보고서 링크: https://yzoo34.notion.site/b3760894c2a9403c8a08d0b514a3f4b8
 
 시나리오
 
