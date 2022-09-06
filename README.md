@@ -1,6 +1,9 @@
 세탁소 시스템
 
+실습 링크: https://labs.msaez.io/#/courses/devops-full/2a260f90-17aa-11ed-bee9-1f959a9d38ef/Liveness-ReadinessProbe
+
 체크포인트 및 실행 방법 참고: https://github.com/msa-school/msaez-labs
+
 최종 프로젝트 보고서 링크: https://yzoo34.notion.site/b3760894c2a9403c8a08d0b514a3f4b8
 
 시나리오
