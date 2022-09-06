@@ -1,4 +1,6 @@
 세탁소 시스템
+
+체크포인트 및 실행 방법 참고: https://github.com/msa-school/msaez-labs
 최종 프로젝트 보고서 링크: https://yzoo34.notion.site/b3760894c2a9403c8a08d0b514a3f4b8
 
 시나리오
